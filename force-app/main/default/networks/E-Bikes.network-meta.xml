@@ -28,7 +28,7 @@
     <enableTopicSuggestions>false</enableTopicSuggestions>
     <enableUpDownVote>false</enableUpDownVote>
     <forgotPasswordTemplate
-    >unfiled$public/CommunityForgotPasswordEmailTemplate</forgotPasswordTemplate>
+    >unfiled$public/CommunityChangePasswordEmailTemplate</forgotPasswordTemplate>
     <gatherCustomerSentimentData>false</gatherCustomerSentimentData>
     <networkMemberGroups>
         <profile>Admin</profile>
